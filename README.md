@@ -1,20 +1,26 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🧠 Nexus Athlete Intelligence
 
-# Run and deploy your AI Studio app
+AI-powered athlete performance analysis system.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
+- Performance analytics
+- AI-based insights
+- Data visualization
+- Intelligent classification system
 
-View your app in AI Studio: https://ai.studio/apps/911f1e7d-527a-488f-a32d-a1ba5fe0f449
+## 🛠 Tech Stack
+- React + TypeScript
+- Vite
+- Node.js
+- Gemini AI
 
-## Run Locally
+## 📊 Use Case
+Helps analyze athlete performance and generate intelligent insights using AI.
 
-**Prerequisites:**  Node.js
+## 📸 Screenshots
+(Add images here)
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## ⚡ Future Improvements
+- ML-based prediction models
+- Real-time analytics
+- Advanced dashboards
