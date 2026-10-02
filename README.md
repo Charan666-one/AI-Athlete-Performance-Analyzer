@@ -17,7 +17,14 @@ AI-powered athlete performance analysis system.
 ## 📊 Use Case
 Helps analyze athlete performance and generate intelligent insights using AI.
 
+## ▶️ Getting Started
 
+Install dependencies and start the development server:
+
+```bash
+npm install
+npm run dev
+```
 
 ## ⚡ Future Improvements
 - ML-based prediction models
