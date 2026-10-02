@@ -17,8 +17,7 @@ AI-powered athlete performance analysis system.
 ## 📊 Use Case
 Helps analyze athlete performance and generate intelligent insights using AI.
 
-## 📸 Screenshots
-(Add images here)
+
 
 ## ⚡ Future Improvements
 - ML-based prediction models
